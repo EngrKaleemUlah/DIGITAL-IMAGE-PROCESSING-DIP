@@ -18,11 +18,11 @@ This repository contains comprehensive resources, code implementations, and docu
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/qazimsajjad/Digital-Image-Processing.git
+    git clone https://github.com/EngrKaleemUlah/DIGITAL-IMAGE-PROCESSING-DIP.git
     ```
 2. **Navigate to the Directory**:
     ```sh
-    cd Digital-Image-Processing-DIP
+    cd DIGITAL-IMAGE-PROCESSING-DIP
     ```
 3. **Install Dependencies**:
     ```sh
@@ -37,8 +37,7 @@ This repository contains comprehensive resources, code implementations, and docu
 
 Open the Jupyter Notebooks provided in the repository to explore different image processing techniques. Each notebook contains detailed explanations, code implementations, and example images to help you understand the concepts.
 
-## Contributor:
+## References:
 
-**Kaleem Ullah**
-Research Assitant **Digital Image Processing (DIP) Lab** Department of Computer Scinece Islamia College University, Peshawar, Pakistan.
-Remote Research Assistant **Visual Analytics Lab (VIS2KNOW)** Department of Applied AI Sungkyunkwan University, Seoul, South Korea.
+- **Gonzalez Edition 3rd** Digital Image Processing.
+- **Linda Shapiro** Digital Image Processing.
