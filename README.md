@@ -18,11 +18,11 @@ This repository contains comprehensive resources, code implementations, and docu
 
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/
+    git clone https://github.com/EngrKaleemUlah/DIGITAL-IMAGE-PROCESSING-DIP.git
     ```
 2. **Navigate to the Directory**:
     ```sh
-    cd Digital-Image-Processing-DIP
+    cd DIGITAL-IMAGE-PROCESSING-DIP
     ```
 3. **Install Dependencies**:
     ```sh
@@ -39,6 +39,5 @@ Open the Jupyter Notebooks provided in the repository to explore different image
 
 ## References:
 
-**Gonzalez Edition 3rd** Digital Image Processing.
-**Linda Shapiro** Digital Image Processing.
-
+- **Gonzalez Edition 3rd** Digital Image Processing.
+- **Linda Shapiro** Digital Image Processing.
